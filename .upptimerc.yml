@@ -2,17 +2,27 @@ owner: BradleyBao
 repo: uptime
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
+  - name: Homepage
+    url: https://www.tianyibrad.com
+  - name: WhoAmI Portal
+    url: https://whoami.tianyibrad.com
+  - name: DN42 Network Info
+    url: https://dn42.tianyibrad.com
+  - name: Core API Services
+    url: https://api.tianyibrad.com/api/health
+    expectedStatusCodes:
+      - 200
+  - name: NetSFC Campus Map API
+    url: https://netsfc-api.tianyibrad.com/api/health
+    expectedStatusCodes:
+      - 200
+  - name: Static Assets
+    url: https://images.tianyibrad.com
 
 status-website:
   cname: status.tianyibrad.com
   # baseUrl: /repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://uptime.tianyibrad.com/upload/logo2.png
   name: Services Status
   introTitle: "tianyibrad Infra Status"
   introMessage: Real-time service health and incident reports.
@@ -20,4 +30,6 @@ status-website:
     - title: Status
       href: /
     - title: GitHub
-      href: https://www.tianyibrad.com
+      href: https://github.com/BradleyBao
+    - title: Detailed Status Page
+      href: https://uptime.tianyibrad.com/status/main
