@@ -4,18 +4,20 @@
     "url": "https://www.tianyibrad.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.tianyibrad.com.ico",
     "slug": "homepage",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 682,
-    "timeDay": 552,
-    "timeWeek": 671,
-    "timeMonth": 680,
-    "timeYear": 682,
-    "dailyMinutesDown": {}
+    "time": 673,
+    "timeDay": 413,
+    "timeWeek": 622,
+    "timeMonth": 667,
+    "timeYear": 673,
+    "dailyMinutesDown": {
+      "2026-10-17": 0
+    }
   },
   {
     "name": "WhoAmI Portal",
