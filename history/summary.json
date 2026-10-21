@@ -78,18 +78,20 @@
     "url": "https://netsfc-api.tianyibrad.com/api/health",
     "icon": "https://icons.duckduckgo.com/ip3/netsfc-api.tianyibrad.com.ico",
     "slug": "net-sfc-campus-map-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 976,
-    "timeDay": 947,
-    "timeWeek": 915,
-    "timeMonth": 994,
-    "timeYear": 976,
-    "dailyMinutesDown": {}
+    "time": 972,
+    "timeDay": 867,
+    "timeWeek": 899,
+    "timeMonth": 987,
+    "timeYear": 972,
+    "dailyMinutesDown": {
+      "2026-10-21": 0
+    }
   },
   {
     "name": "Static Assets",
