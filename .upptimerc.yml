@@ -18,6 +18,16 @@ sites:
       - 200
   - name: Static Assets
     url: https://images.tianyibrad.com
+  - name: HedgeDoc
+    url: https://notes.tianyibrad.com
+  - name: La Suite Docs
+    url: https://docs.tianyibrad.com
+  - name: Documentation
+    url: https://doc.tianyibrad.com
+  - name: Cloudreve
+    url: https://drive.tianyibrad.com
+  - name: n8n Automation
+    url: https://auto.tianyibrad.com
 
 status-website:
   cname: status.tianyibrad.com
