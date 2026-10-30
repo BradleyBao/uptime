@@ -28,6 +28,8 @@ sites:
     url: https://drive.tianyibrad.com
   - name: n8n Automation
     url: https://auto.tianyibrad.com
+  - name: RSS Priority Feeds
+    url: https://feeds.tianyibrad.com
 
 status-website:
   cname: status.tianyibrad.com
